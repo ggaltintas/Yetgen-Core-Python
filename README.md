@@ -1,9 +1,8 @@
-# Yetgen-Core-Python Programı
+# Yetgen-Core-Python
 
 ## Açıklama
-- Bu repoyu Yetgen Core Pyhton Programında öğrendiklerimi ve haftalık görevlerimi oluşturmak için hazırladım.
-|<img src=https://yetkingencler.com/wp-content/uploads/2021/07/yetgen-beyaz-e1626884322969-768x284.png>
+- Bu repo Yetgen Core pyhton eğitiminde öğrendiğim çalışmaları ve haftalık görevleri oluşturmak için hazırladım.
 
 ### 1.Hafta Çalışmaları
-- Git Kullanımı
-- Github Kullanımı
+- Git kullanımı
+- Github kullanımı
